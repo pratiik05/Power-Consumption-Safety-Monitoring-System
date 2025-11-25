@@ -1,2 +1,4 @@
 # Power-Consumption-Safety-Monitoring-System
 Design an loT-based Power Consumption and Safety Monitoring System using Raspberry Pi Pico for real-time tracking of electrical usage. Also help detect fire hazards due to short circuits. Ensure remote reporting, and quick response to hazards.
+#Scope of the Solution
+Measure electrical power usage using the INA219 sensor and monitor safety parameters such as flame detection and short-circuit indicators. Display real-time voltage, current, and power readings on the Serial monitor. Trigger buzzer and LED alerts when abnormal conditions or fire hazards are detected. Send all sensor data to ThingSpeak for remote visualization and continuous data logging. Access the online dashboard remotely for campus-wide electrical safety monitoring and early hazard detection.
